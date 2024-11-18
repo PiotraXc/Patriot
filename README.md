@@ -4,7 +4,7 @@
   Welcome to my GitHub profile! I'm an entity interested in technology.
 </p>
 
----
+
 
 <h3 align="center">🌱 What I'm learning</h3>
 
@@ -13,7 +13,6 @@
   - learning history of the world and certain language also.
 </p>
 
----
 
 <h3 align="center">🛠️ Technologies and Tools</h3>
 
