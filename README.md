@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋 I'm piotraXc!</h1>
 
 <p align="center">
-  Welcome to my GitHub profile! I'm an entity interested in technology.
+  Welcome to my GitHub profile! I'm an entity interested in technology🗿.
 </p>
 
 
