@@ -9,8 +9,8 @@
 <h3 align="center">🌱 What I'm learning</h3>
 
 <p align="center">
-  - Briefly mention technologies, languages, or frameworks you're currently learning.<br>
-  - If you’re taking any courses or reading specific books, list them here.
+  - im interest to anything that can be learned.<br>
+  - learning history of the world and certain language also.
 </p>
 
 ---
